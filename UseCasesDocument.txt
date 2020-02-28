@@ -1,0 +1,3 @@
+DOCUMENTO PER I CASI D'USO
+
+Il presente documento ha lo scopo di descrivere i casi d'uso associati alle specifiche funzionali e non funzionali
