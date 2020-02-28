@@ -1,0 +1,3 @@
+DOCUMENTO DI SPECIFICA REQUISITI
+
+Il presente documento ha lo scopo di descrivere le caratteristiche funzionali e non funzionali dell'applicazione.
